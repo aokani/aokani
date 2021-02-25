@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokani&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aokani&count_private=true&show_icons=true&bg_color=110,ffffff,01aae3&text_color=242424&icon_color=dd88dd&title_color=6060ff&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aokani&bg_color=110,ffffff,01aae3&text_color=242424&title_color=6060ff&layout=compact)
